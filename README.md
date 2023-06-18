@@ -33,7 +33,7 @@ My name is Charan Basireddy and I'm a DevOps engineer looking to transition into
 ![](https://img.shields.io/badge/Compute-EC2-informational?style=flat&logo=ec2&logoColor=white&color=2bbc8a)
 
 
-<a href="[https://github.com/4019charan?tab=repositories]">
+<a href="[https://github.com/4019charan/4019charan]">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4019charan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 
 
