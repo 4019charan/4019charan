@@ -1,5 +1,6 @@
-# Hello, folks! 👋
-My name is Charan Basireddy and I'm a DevOps Engineer. I'm from India, living in South Carolina, USA and currently doing my Masters in Computer Science at Clemson University.
+# Hello, folks! <img src="wave.gif" width="30px" height="30px" />
+
+My name is Charan Basireddy and I'm a DevOps engineer looking to transition into ML engineer. I'm from India, living in Clemson, SC and currently pursuing Master's degree at Clemson University. You can find me on [![LinkedIn][3.2]][2].
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -34,6 +35,12 @@ My name is Charan Basireddy and I'm a DevOps Engineer. I'm from India, living in
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4019charan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+
+
+  <!-- links to your social media accounts -->
+
+[1]: https://github.com/4019charan
+[2]: https://www.linkedin.com/in/charan-basireddy-506b1616b
 
 
 <!--
