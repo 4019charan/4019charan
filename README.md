@@ -2,6 +2,8 @@
 
 My name is Charan Basireddy and I'm a DevOps engineer looking to transition into ML engineer. I'm from India, living in Clemson, SC and currently pursuing Master's degree at Clemson University. You can find me on [![Linkedin](linkedin-3-16.png)][2.1].
 
+Here's link to my portfolio : (http://online-portfolio01.s3-website-us-east-1.amazonaws.com).Please visit my portfolio repo to see the object architechture.
+
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
