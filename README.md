@@ -42,7 +42,7 @@ Here's link to my portfolio : [![Portfolio](AWS_logo_1.png)][3.1] . Please visit
   <!-- links to your social media accounts -->
 
 [1.1]: https://github.com/4019charan
-[2.1]: https://www.linkedin.com/in/charan-basireddy-506b1616b/
+[2.1]: https://www.linkedin.com/in/charan-basireddy/
 [3.1]: http://online-portfolio01.s3-website-us-east-1.amazonaws.com
 
 
