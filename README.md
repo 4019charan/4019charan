@@ -1,6 +1,6 @@
 # Hello, folks! <img src="wave.gif" width="30px" height="30px" />
 
-My name is Charan Basireddy and I'm a DevOps engineer looking to transition into ML engineer. I am currently pursuing a Master's degree at Clemson University. You can find me on [![Linkedin](linkedin-3-16.png)][2.1].
+My name is Charan Basireddy and I'm a Data engineer with 4 + years of experience. I have a Master's in Computer Science from Clemson University. You can find me on [![Linkedin](linkedin-3-16.png)][2.1].
 
 Here's link to my portfolio : [![Portfolio](AWS_logo_1.png)][3.1] . Please visit my portfolio repo to see the object architecture.
 
